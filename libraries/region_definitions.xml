@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<!-- Nebulae, Landmarks, and the Misc. -->
+	<remove sel="/regions/region[@name='region_asteroidring_v1']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='region_asteroidring_v1']/fields/positional[@ref='fog_outside_set3_macro']"/>
+	<remove sel="/regions/region[@name='asteroid_field_big_sun']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='debris_field_1']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='debris_field_2']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='test_nebula_region_sun']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_struct_buildtree_ol_laboratory_01']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_struct_buildtree_ol_laboratory_02']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='split_lost_colony_region']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='split_lost_colony_region']/fields/positional[@ref='fog_outside_set3_macro']"/>
+	<remove sel="/regions/region[@name='aqueduct_region']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	
+	<!-- Zones etc. -->
+	<remove sel="/regions/region[@name='region_zone_003']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_005']/fields/positional[@ref='fog_outside_set2_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_005']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_013']/fields/nebula[@resource='plasma']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_019']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_020']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_021']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_021']/fields/positional[@ref='fog_outside_set3_big_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_023']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_023']/fields/positional[@ref='fog_outside_set3_big_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_024']/fields/nebula[@resource='plasma']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_024']/fields/positional[@ref='fog_outside_set3_big_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_025']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_025']/fields/positional[@ref='fog_outside_set3_big_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_026']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_026']/fields/positional[@ref='fog_outside_set3_big_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_029']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_029']/fields/positional[@ref='fog_outside_set4_green_macro']"/>
+	
+	<!-- Looks like DeVries -->
+	<remove sel="/regions/region[@name='region_zone_034']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_035']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_036']/fields/nebula[@resource='plasma']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_041']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_041']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_055']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	
+	<!-- Omicron Lyrae -->
+	<remove sel="/regions/region[@name='region_zone_066']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_066']/fields/nebula[@resource='plasma']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_066']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_087']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_088']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_089']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_090']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_091']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_092']/fields/nebula[@ref='fogvolume_small_macro']"/>
+	
+	<!-- Maelstrom -->
+	<remove sel="/regions/region[@name='region_zone_095']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_100']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_108']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_108']/fields/positional[@ref='fog_outside_set4_blue_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_110']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_zone_114']/fields/positional[@ref='fog_outside_set4_blue_macro']"/>
+	<remove sel="/regions/region[@name='region_zone_114']/fields/nebula[@resource='hydrogen']/@ref"/>
+</diff>

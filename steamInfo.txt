@@ -1,0 +1,56 @@
+﻿This mod removes the visual effects of fogs from the game. Specifically, this mod targets the fogs inside Albion [AL], DeVries [DV], Omicron Lyrae [OL] and Maelstrom [MA].
+
+It is well known that fogs in X Rebirth may cause FPS drops. By removing the animations of the fogs, or even removing the fogs themselves, the problem of FPS drops should be less severe.
+
+This mod preserves gaseous resources (hydrogen, ions, plasma) while removing their visual effects. This mod ignores danger zones; danger zones will have their original fog effects.
+
+[b]Known Issues[/b]
+[list]
+[*]Unfortunately, this mod may remove some fog outside of the four systems; I have seen this mod remove a chunk of fog in Cold Star
+[*]Eclipse Clouds, Omicron Lyrae [OL.EC] becomes literally lit a.f.; I plan to investigate the LUTs and color corrections available in the game source to mitigate this
+[/list]
+
+[b]Planned/Ready Sister Extensions for Other Mods[/b]
+These sister extensions are designed to complement this main mod, and can be subscribed to at any time. They are not arranged in any specific order.
+[list]
+[*]Remove Fog: The Teladi Outpost
+[*]Remove Fog: Home of Light
+[*]Remove Fog: CWIR - The New Frontier
+[*]Remove Fog: Lost Sectors
+[*]Remove Fog: Erloschene Hoffnung
+[*]Remove Fog: Herschels Geschenk
+[*]Remove Fog: StationsMod 1.13
+[/list]
+
+
+這個mod移除了[AL]、[DV]、[OL]以及[MA]星系內的霧氣視覺效果。
+
+這個mod並沒有影響地圖中氣體資源的採集，也沒有影響到地圖中的危險區域(那些飛進去會受傷的區域)。
+
+[b]已知問題[/b]
+[list]
+[*]不幸地，這個mod也會移除其他星系的霧氣視覺效果；我見到這個mod移除[CS]星系的一些霧氣視覺效果
+[*][OL.EC]變得可以閃瞎旁人；我會在遊戲檔中找找有沒有適合的LUT檔去處理一下這問題
+[/list]
+
+[b]計劃中/已完成的、為其他Mod而設的姊妹Mod[/b]
+這些姊妹Mod是為延續本mod移除霧氣視覺效果的信念。排名不分先後。
+[list]
+[*]去去霧霾走: The Teladi Outpost
+[*]去去霧霾走: Home of Light
+[*]去去霧霾走: CWIR - The New Frontier
+[*]去去霧霾走: Lost Sectors
+[*]去去霧霾走: Erloschene Hoffnung
+[*]去去霧霾走: Herschels Geschenk
+[*]去去霧霾走: StationsMod 1.13
+[/list]
+
+
+patching
+
+*ID Conventions:
+A three-digit ID, X__; for X:
+7字: Egosoft Forum
+8字: Steam Workshop
+9字: Nexus Mods, and other sources
+The __ are for autoID; you know the rules.
